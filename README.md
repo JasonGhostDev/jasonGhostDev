@@ -51,3 +51,12 @@ About Me
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/msilucifer/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/msilucifer/)
 <br />
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonGhostDev&theme=white" /> 
+
+<img align="center" alt="jasonGhostDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonGhostDev&show_icons=true&hide_border=true" /><br /><br />
+
+
+---
